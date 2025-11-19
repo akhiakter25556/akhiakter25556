@@ -16,9 +16,9 @@
 
 - 🔭 **Currently working on:** Zap-Shift (MERN Stack)
 - 🌱 **Currently learning:** Next.js
-- 👨💻 **Portfolio:** [alifmia.netlify.app](https://alifmia.netlify.app)
+
 - 💬 **Ask me about:** React, Node.js, MongoDB, JavaScript
-- 📫 **How to reach me:** alifhossinsajjad123456@gmail.com
+- 📫 **How to reach me:** akhiakteherpower@gmail.com
 - ⚡ **Fun fact:** I love turning complex problems into simple, beautiful solutions
 
 
@@ -28,9 +28,7 @@
 
 <!-- GitHub Stats Cards -->
 
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifmia&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifmia&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alifmia&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
 
 </div>
 
@@ -98,4 +96,4 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
-... (76 lines left)
+
