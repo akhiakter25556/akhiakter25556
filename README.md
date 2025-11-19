@@ -65,3 +65,5 @@ A passionate **Full-Stack Developer** specializing in the **MERN stack** with ex
 ### 🔧 Current Focus: **Zap-Shift**
 > *Car Rental Platform - MERN Stack*
 exx-rcws-dbi
+## 👁 Profile Views
+<img src="https://komarev.com/ghpvc/?username=alifmia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
