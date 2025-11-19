@@ -4,7 +4,7 @@ Akhi Akter
 <div align="center">
 
 <!-- Professional Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7E22CE&height=200&section=header&text=Alif%20Mia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7E22CE&height=200&section=header&text=Akhi%20Mia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" width="100%"/>
 
 <!-- Profile Header -->
 <h1 align="center">💻 Full-Stack Developer | MERN Stack Specialist</h1>
