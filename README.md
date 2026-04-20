@@ -98,7 +98,34 @@ A passionate **Full-Stack Developer** specializing in the **MERN stack** with ex
 ### 🎓 [SmartLMS-Pro](https://smartlms-pro.vercel.app/)
 **Full-Stack | Next.js, TypeScript & Socket.io**
 
-<a href="https://smartlms-pro.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" width="100%"></a>
+<!-- <a href="https://smartlms-pro.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" width="100%"></a> -->
+🎓 SmartLMS-Pro
+Full-Stack | Next.js, TypeScript & Socket.io
+
+<table>
+<tr>
+<td width="45%">
+<a href="https://smartlms-pro.vercel.app/" target="_blank">
+<img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" style="border-radius:10px;">
+</a>
+</td>
+<td>
+<ul>
+<li><strong>Description:</strong> A comprehensive Learning Management System designed to "Elevate Skills." Features real-time communication and AI-driven path to mastery.</li>
+<li><strong>Tech Stack:</strong>
+
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+</li>
+<li>🔗 <strong><a href="https://smartlms-pro.vercel.app/">Live Demo</a></strong> | 📂 <strong><a href="https://github.com/ruhi-akhi/smartlms-pro">GitHub</a></strong></li>
+</ul>
+</td>
+</tr>
+</table>
+
+
 
 - **Description:** A comprehensive Learning Management System designed to "Elevate Skills." Features real-time communication and AI-driven path to mastery.
 - **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
