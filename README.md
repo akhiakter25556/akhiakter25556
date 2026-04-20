@@ -92,69 +92,52 @@ A passionate **Full-Stack Developer** specializing in the **MERN stack** with ex
 
 ---
 
+---
+
 ## 🌟 Featured Projects
 
 ### 🎓 [SmartLMS-Pro](https://smartlms-pro.vercel.app/)
 **MERN Stack | Learning Management System**
 
 <a href="https://smartlms-pro.vercel.app/" target="_blank">
-  <img src="https://i.ibb.co/XFhYm4w/smartlms-pro-screenshot.png" alt="SmartLMS-Pro Screenshot" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" width="100%" style="border-radius: 10px;"/>
 </a>
 
-- **Description:** A comprehensive Learning Management System designed to "Elevate Skills." Features modern user interfaces, course exploring, and progress tracking.
-- **Key Features:** User Dashboard, Course Details, AI-driven Ecosystem, HelpDesk integration, Dark/Light Mode.
-- **Tech Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) 
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- **Description:** A comprehensive Learning Management System designed to "Elevate Skills." Features modern user interfaces and AI-driven path to mastery.
+- **Key Features:** User Dashboard, Course Details, HelpDesk integration, and Dark/Light Mode.
+- **Tech Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-🔗 [Live Demo](https://smartlms-pro.vercel.app/) | 📂 [GitHub Repo](https://github.com/ruhi-akhi/smartlms-pro) ---
+🔗 [Live Demo](https://smartlms-pro.vercel.app/) | 📂 [GitHub Repo](https://github.com/ruhi-akhi/smartlms-pro)
+
+---
 
 ### 🖼️ [Vizual Graphics](https://vizualgraphics.vercel.app/)
 **Agency Portfolio Website**
 
 <a href="https://vizualgraphics.vercel.app/" target="_blank">
-  <img src="https://i.ibb.co/0X6m2mF/vizualgraphics-screenshot.png" alt="Vizual Graphics Screenshot" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://github.com/user-attachments/assets/e93c13ab-b094-4d65-87c5-0cdd0f486afe" alt="Vizual Graphics" width="100%" style="border-radius: 10px;"/>
 </a>
 
-- **Description:** A sleek, image-heavy portfolio website for a visual graphics agency. Showcases design services, pricing, and client portfolios.
-- **Key Features:** Dynamic Image Sliders, "Get Quote" functionality, clean navigation, responsive design.
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- **Description:** A sleek, image-heavy portfolio website for a visual graphics agency showcasing motion and design services.
+- **Key Features:** Dynamic Hero sections, Service showcases, and responsive UI/UX.
+- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-🔗 [Live Demo](https://vizualgraphics.vercel.app/) | 📂 [GitHub Repo](https://github.com/ruhi-akhi/vizual-graphics) ---
+🔗 [Live Demo](https://vizualgraphics.vercel.app/) | 📂 [GitHub Repo](https://github.com/ruhi-akhi/vizual-graphics)
+
+---
 
 ### 📦 [SmartInventory](https://l-msystemproject-92x9.vercel.app/)
 **MERN Stack | Intelligent Inventory & Order Management**
 
 <a href="https://l-msystemproject-92x9.vercel.app/" target="_blank">
-  <img src="https://i.ibb.co/Wc63Vn8/smartinventory-screenshot.png" alt="SmartInventory Screenshot" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" width="100%" style="border-radius: 10px;"/>
 </a>
 
-- **Description:** An intelligent inventory management system designed for businesses. Specializes in managing orders and tracking stock efficiently.
-- **Key Features:** Bengali Language Support, Real-time Dashboard, Order Tracking, 24/7 Support integration, Dark/Light Mode.
-- **Tech Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) 
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) 
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- **Description:** An intelligent inventory management system with real-time tracking and stock control features.
+- **Key Features:** Bengali Language Support, Real-time Analytics Dashboard, and Automatic Order Management.
+- **Tech Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-🔗 [Live Demo](https://l-msystemproject-92x9.vercel.app/) | 📂 [GitHub Repo](https://github.com/ruhi-akhi/l-msystemproject) ```
-
-### **প্রয়োজনীয় কাজ (Important Notes):**
-
-Ami apnar screenshot gulo niye direct GitHub-e render korar jonno ready links (img.ibb.co) toiri kore diyechi, tai image upload korar jhamela nei. Kintu, apnake oboshoyi nicher jinish gulo file-e update korte hobe:
-
-1.  **GitHub Repo Links:** Ami code-e GitHub-er repository links gulor place-holder (`your-repo-link`) diyechi. Apni niche project repo links gulo `[GitHub Repo](... link ...)` e replace kore din:
-    * `SmartLMS-Pro` er repo link.
-    * `Vizual Graphics` er repo link.
-    * `SmartInventory` (aka l-msystemproject-92x9) er repo link.
-
-Puro code-ta update korar por apnar profile onoshoyi professional lagbe!
+🔗 [Live Demo](https://l-msystemproject-92x9.vercel.app/) | 📂 [GitHub Repo](https://github.com/ruhi-akhi/l-msystemproject)
 
 
 
