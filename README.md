@@ -91,37 +91,41 @@ A passionate **Full-Stack Developer** specializing in the **MERN stack** with ex
 ---
 
 
+---
+
 ## 🌟 Featured Projects
 
 ### 🎓 [SmartLMS-Pro](https://smartlms-pro.vercel.app/)
-**MERN Stack | Learning Management System**
-<a href="https://l-msystemproject-92x9.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" width="100%">
+**Full-Stack | Next.js, TypeScript & Socket.io**
 
-- **Description:** A comprehensive Learning Management System designed to "Elevate Skills." Features modern user interfaces and AI-driven path to mastery.
-- **Tech Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<a href="https://smartlms-pro.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" width="100%"></a>
+
+- **Description:** A comprehensive Learning Management System designed to "Elevate Skills." Features real-time communication and AI-driven path to mastery.
+- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 🔗 [Live Demo](https://smartlms-pro.vercel.app/) | 📂 [GitHub Repo](https://github.com/ruhi-akhi/smartlms-pro)
 
 ---
 
 ### 🖼️ [Vizual Graphics](https://vizualgraphics.vercel.app/)
-**Agency Portfolio Website**
+**Agency Portfolio Website | Next.js & TypeScript**
 
 <a href="https://vizualgraphics.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/e93c13ab-b094-4d65-87c5-0cdd0f486afe" alt="Vizual Graphics" width="100%"></a>
 
 - **Description:** A sleek, image-heavy portfolio website for a visual graphics agency showcasing motion and design services.
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 🔗 [Live Demo](https://vizualgraphics.vercel.app/) | 📂 [GitHub Repo](https://github.com/ruhi-akhi/vizual-graphics)
 
 ---
 
 ### 📦 [SmartInventory](https://l-msystemproject-92x9.vercel.app/)
-**MERN Stack | Intelligent Inventory & Order Management**
+**Intelligent Inventory Management | Next.js & Socket.io**
 
-<!-- <a href="https://l-msystemproject-92x9.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" width="100%"></a> -->
-</a><a href="https://smartlms-pro.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" width="100%"></a>- **Description:** An intelligent inventory management system with real-time tracking and stock control features.
-- **Tech Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<a href="https://l-msystemproject-92x9.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" width="100%"></a>
+
+- **Description:** An intelligent inventory management system with real-time tracking, stock control, and live updates via Socket.io.
+- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 🔗 [Live Demo](https://l-msystemproject-92x9.vercel.app/) | 📂 [GitHub Repo](https://github.com/ruhi-akhi/l-msystemproject)
 
