@@ -137,7 +137,33 @@ Full-Stack | Next.js, TypeScript & Socket.io
 ### 🖼️ [Vizual Graphics](https://vizualgraphics.vercel.app/)
 **Agency Portfolio Website | Next.js & TypeScript**
 
-<a href="https://vizualgraphics.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/e93c13ab-b094-4d65-87c5-0cdd0f486afe" alt="Vizual Graphics" width="100%"></a>
+<!-- <a href="https://vizualgraphics.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/e93c13ab-b094-4d65-87c5-0cdd0f486afe" alt="Vizual Graphics" width="100%"></a> -->
+
+🖼️ Vizual Graphics
+Agency Portfolio Website | Next.js & TypeScript
+
+<table>
+<tr>
+<td width="45%">
+<a href="https://vizualgraphics.vercel.app/" target="_blank">
+<img src="https://github.com/user-attachments/assets/e93c13ab-b094-4d65-87c5-0cdd0f486afe" alt="Vizual Graphics" style="border-radius:10px;">
+</a>
+</td>
+<td>
+<ul>
+<li><strong>Description:</strong> A sleek, image-heavy portfolio website for a visual graphics agency showcasing motion and design services.</li>
+<li><strong>Tech Stack:</strong>
+
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</li>
+<li>🔗 <strong><a href="https://vizualgraphics.vercel.app/">Live Demo</a></strong> | 📂 <strong><a href="https://github.com/ruhi-akhi/vizual-graphics">GitHub</a></strong></li>
+</ul>
+</td>
+</tr>
+</table>
 
 - **Description:** A sleek, image-heavy portfolio website for a visual graphics agency showcasing motion and design services.
 - **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -149,7 +175,35 @@ Full-Stack | Next.js, TypeScript & Socket.io
 ### 📦 [SmartInventory](https://l-msystemproject-92x9.vercel.app/)
 **Intelligent Inventory Management | Next.js & Socket.io**
 
-<a href="https://l-msystemproject-92x9.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" width="100%"></a>
+<!-- <a href="https://l-msystemproject-92x9.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" width="100%"></a> -->
+
+📦 SmartInventory
+Intelligent Inventory Management | Next.js & Socket.io
+
+<table>
+<tr>
+<td width="45%">
+<a href="https://l-msystemproject-92x9.vercel.app/" target="_blank">
+<img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" style="border-radius:10px;">
+</a>
+</td>
+<td>
+<ul>
+<li><strong>Description:</strong> Intelligent inventory management with real-time tracking, stock control, and live updates via Socket.io.</li>
+<li><strong>Tech Stack:</strong>
+
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+</li>
+<li>🔗 <strong><a href="https://l-msystemproject-92x9.vercel.app/">Live Demo</a></strong> | 📂 <strong><a href="https://github.com/ruhi-akhi/l-msystemproject">GitHub</a></strong></li>
+</ul>
+</td>
+</tr>
+</table>
+
+
 
 - **Description:** An intelligent inventory management system with real-time tracking, stock control, and live updates via Socket.io.
 - **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
