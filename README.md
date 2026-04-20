@@ -100,7 +100,7 @@ A passionate **Full-Stack Developer** specializing in the **MERN stack** with ex
 **MERN Stack | Learning Management System**
 
 <a href="https://smartlms-pro.vercel.app/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" width="100%" style="border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" width="100%" style="border-radius: 10px;"/>
 </a>
 
 - **Description:** A comprehensive Learning Management System designed to "Elevate Skills." Features modern user interfaces and AI-driven path to mastery.
@@ -130,7 +130,10 @@ A passionate **Full-Stack Developer** specializing in the **MERN stack** with ex
 **MERN Stack | Intelligent Inventory & Order Management**
 
 <a href="https://l-msystemproject-92x9.vercel.app/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" width="100%" style="border-radius: 10px;"/>
+
+
+
+    <img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" width="100%" style="border-radius: 10px;"/>
 </a>
 
 - **Description:** An intelligent inventory management system with real-time tracking and stock control features.
