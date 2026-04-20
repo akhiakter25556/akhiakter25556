@@ -90,18 +90,12 @@ A passionate **Full-Stack Developer** specializing in the **MERN stack** with ex
 
 ---
 
----
-
----
-
----
 
 ## 🌟 Featured Projects
 
 ### 🎓 [SmartLMS-Pro](https://smartlms-pro.vercel.app/)
 **MERN Stack | Learning Management System**
-
-<a href="https://smartlms-pro.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" width="100%"></a>
+<a href="https://l-msystemproject-92x9.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" width="100%">
 
 - **Description:** A comprehensive Learning Management System designed to "Elevate Skills." Features modern user interfaces and AI-driven path to mastery.
 - **Tech Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -125,9 +119,8 @@ A passionate **Full-Stack Developer** specializing in the **MERN stack** with ex
 ### 📦 [SmartInventory](https://l-msystemproject-92x9.vercel.app/)
 **MERN Stack | Intelligent Inventory & Order Management**
 
-<a href="https://l-msystemproject-92x9.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" width="100%"></a>
-
-- **Description:** An intelligent inventory management system with real-time tracking and stock control features.
+<!-- <a href="https://l-msystemproject-92x9.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" width="100%"></a> -->
+</a><a href="https://smartlms-pro.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" width="100%"></a>- **Description:** An intelligent inventory management system with real-time tracking and stock control features.
 - **Tech Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 🔗 [Live Demo](https://l-msystemproject-92x9.vercel.app/) | 📂 [GitHub Repo](https://github.com/ruhi-akhi/l-msystemproject)
