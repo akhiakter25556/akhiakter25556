@@ -106,7 +106,10 @@ Full-Stack | Next.js, TypeScript & Socket.io
 <tr>
 <td width="45%">
 <a href="https://smartlms-pro.vercel.app/" target="_blank">
-<img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" style="border-radius:10px;">
+<!-- <img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" style="border-radius:10px;"> -->
+
+<img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" style="border-radius:10px;">
+  
 </a>
 </td>
 <td>
@@ -184,7 +187,10 @@ Intelligent Inventory Management | Next.js & Socket.io
 <tr>
 <td width="45%">
 <a href="https://l-msystemproject-92x9.vercel.app/" target="_blank">
-<img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" style="border-radius:10px;">
+<!-- <img src="https://github.com/user-attachments/assets/b21da20c-9a3c-4529-9be9-029306bf4480" alt="SmartInventory" style="border-radius:10px;"> -->
+
+
+  <img src="https://github.com/user-attachments/assets/51649e6e-bcd0-4131-b21a-6a917d51e3b9" alt="SmartLMS-Pro" style="border-radius:10px;">
 </a>
 </td>
 <td>
